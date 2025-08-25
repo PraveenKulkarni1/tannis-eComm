@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tannis-eComm/static/css/main.50ef4643.css",
-    "main.js": "/tannis-eComm/static/js/main.2013176e.js",
+    "main.js": "/tannis-eComm/static/js/main.c2929001.js",
     "reactPlayerYouTube.js": "/tannis-eComm/static/js/reactPlayerYouTube.827d572d.chunk.js",
     "reactPlayerSoundCloud.js": "/tannis-eComm/static/js/reactPlayerSoundCloud.6bb98538.chunk.js",
     "reactPlayerVimeo.js": "/tannis-eComm/static/js/reactPlayerVimeo.8d4d9e37.chunk.js",
@@ -67,7 +67,7 @@
     "static/media/shade2.avif": "/tannis-eComm/static/media/shade2.4a86ed341fe6943c5734.avif",
     "static/media/shade5.avif": "/tannis-eComm/static/media/shade5.9bd1918094a3b617029d.avif",
     "main.50ef4643.css.map": "/tannis-eComm/static/css/main.50ef4643.css.map",
-    "main.2013176e.js.map": "/tannis-eComm/static/js/main.2013176e.js.map",
+    "main.c2929001.js.map": "/tannis-eComm/static/js/main.c2929001.js.map",
     "reactPlayerYouTube.827d572d.chunk.js.map": "/tannis-eComm/static/js/reactPlayerYouTube.827d572d.chunk.js.map",
     "reactPlayerSoundCloud.6bb98538.chunk.js.map": "/tannis-eComm/static/js/reactPlayerSoundCloud.6bb98538.chunk.js.map",
     "reactPlayerVimeo.8d4d9e37.chunk.js.map": "/tannis-eComm/static/js/reactPlayerVimeo.8d4d9e37.chunk.js.map",
@@ -85,6 +85,6 @@
   },
   "entrypoints": [
     "static/css/main.50ef4643.css",
-    "static/js/main.2013176e.js"
+    "static/js/main.c2929001.js"
   ]
 }
